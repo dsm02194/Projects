@@ -1,0 +1,16 @@
+.main{
+  border: 2px solid;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: red ;
+}
+
+.first{
+  color: blue;
+  text-size-adjust: 20px;
+  background-color: aqua;
+}
+
+.second{
+  color: brown;
+}
